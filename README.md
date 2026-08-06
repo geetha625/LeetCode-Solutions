@@ -14,6 +14,7 @@
 | ------- |
 | [0015-3sum](https://github.com/geetha625/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/geetha625/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/geetha625/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,12 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/geetha625/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/geetha625/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/geetha625/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
