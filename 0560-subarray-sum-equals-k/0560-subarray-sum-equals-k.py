@@ -1,0 +1,13 @@
+class Solution(object):
+    def subarraySum(self, nums, k):
+        count=0
+        sum=0
+        d=dict()
+        d[0]=1
+        for i in range(len(nums)):
+            sum+=nums[i]
+            count+=d.get(sum-k,0)
+            d[sum]=d.get(sum,0)+1
+        return count
+
+        
