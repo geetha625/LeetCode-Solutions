@@ -16,6 +16,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/geetha625/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/geetha625/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/geetha625/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/geetha625/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/geetha625/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/geetha625/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/geetha625/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -41,4 +43,5 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/geetha625/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/geetha625/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
