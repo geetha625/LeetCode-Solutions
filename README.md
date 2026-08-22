@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/geetha625/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/geetha625/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
 | ------- |
